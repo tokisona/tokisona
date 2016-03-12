@@ -1,0 +1,37 @@
+---
+layout: post
+title: tan mi en sitelen
+comments: true
+permalink: /tanmi/
+---
+
+
+sona sijelo anu sona ilo sona anu (kalama) musi li pona tawa mi.  
+nimi mi li jan Wenato.
+
+ni li mi lon poka sitelen Pokinawi:  
+![an alt text](/assets/eu.jpg){: .mypic}
+
+*I like physics, computer science and arts (music).*  
+*My name is Renato.*
+
+*here is a photo of my by a Portinari painting: [image]*
+
+lon sitelen ni, ale li nimi lon toki pona.  
+toki ante li lon tan nasin tu:  
+
+- mi mute li kama e nimi pona.
+- mi mute kama sona e toki li sona lon tenpo ni.
+
+*in this site, all is written in toki pona.*  
+*translations are there for two reasons:*  
+*- we can enhance the writings (you can comment).*  
+*- we can learn or remember the language.*  
+
+mi wile pana ilo sona sitelen lili tan Piton any Win.  
+
+*i wish to share little Vim and Python scripts.*
+
+sina o pona e pona a!
+
+*enjoy!*

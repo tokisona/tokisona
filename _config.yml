@@ -1,0 +1,16 @@
+# Site settings
+title: toki sona lon toki pona
+email: renato.fabbri@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  toki li pana e pilin e insa toki e nasin. sina li wawa e lon kepeken toki pona.
+  (language dictates your feelings, your thinking and cognition. You strengthen your existence by talking nicely).
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tokisona.github.io" # the base hostname & protocol for your site
+twitter_username: renatogk
+facebook_username: renato.fabbri
+github_username: ttm
+irc_channel: labmacambira
+
+# Build settings
+markdown: kramdown
+timezone: America/Rio_de_Janeiro
