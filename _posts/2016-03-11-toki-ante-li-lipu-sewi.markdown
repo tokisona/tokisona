@@ -1,23 +1,32 @@
 ---
 layout: post
-title:  "Open linked social data basic motivation"
-categories: semantic social data
+title:  toki ante li lipu sewi
+categories: toki pona sewi
 comments: true
 published: true
 ---
-Data produced by taxes, transactions and institutional bureauracy,
-or by tecnological traces, are used daily by the State, private corporations,
-and hybrid sectors, such as banking and some of the ONGs.
-The individuals, as civilians, are left out of such harnessing.
-This is a core motivation.
 
-Other motivation include:
+mi ale li tawa ike lon nasin mute  
+jan li tawa ike ala lon toki, la jan ni li pona suli mute,  
+li jo e wawa pi nasin lawa lon sijelo ale sina.  
+(James, 3:2)
 
-- benchmarking, research
+sewi li pana ala e kon wawa ala,  
+taso la ona li pana e kon pi wawa en olin en sona pali awen.  
+(2 Timothy 1:7)
 
-- self-knowledge
+mi wile kama sona e Jesu,  
+e wawa tan moli weka ona,  
+e pali lon pilin ike ona,  
+a la mi li sama e ona lon  
+moli ona,  
+tan la li kama jo e moli weka   
+(Philippians 3:10,11)
 
-- art, aesthetic
+nimi li mute la ike li lon,  
+taso jan pi nasin nena uta li sona.  
+(Proverbs 10:19)
 
-- social paradigm shift
-
+nimi uta mi li pilin pona tawa sina,  
+o kiwen mi an jan li kama jo mi tempo pi mute   
+(Psalms 19:14)
