@@ -6,19 +6,6 @@ permalink: /tanmiensitelen/
 ---
 
 
-sona sijelo en sona ilo sona en (kalama) musi li pona tawa mi.  
-ijo ante ni li pona tawa mi a.  
-mi jan Wenato.
-
-ni li mi lon poka sitelen Pokinawi:  
-![an alt text](/assets/eu.jpg){: .mypic}
-
-*I like physics, computer science and arts (music).*  
-*I like other things too!*  
-*My name is Renato.*
-
-*here is a photo of my by a Portinari painting: [image]*
-
 lon sitelen ni, ale li nimi lon toki pona.  
 toki ante li lon tan nasin tu:  
 
@@ -42,3 +29,24 @@ sona ken lukin li ilo sona nimi tan sitelen lon <a href="https://github.com/toki
 sina o pona e pona a!
 
 *enjoy!*
+
+===
+
+sina lon ni lon tenpo ni anu seme a?
+
+still here?
+
+sona sijelo en sona ilo sona en (kalama) musi li pona tawa mi.  
+ijo ante ni li pona tawa mi a.  
+mi jan Wenato.
+
+*I like physics, computer science and arts (music).*  
+*I like other things too!*  
+*My name is Renato.*
+
+ni li mi lon poka sitelen Pokinawi:  
+![an alt text](/assets/eu.jpg){: .mypic}
+
+*here is a photo of my by a Portinari painting: [image]*
+
+
