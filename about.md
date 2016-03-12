@@ -32,9 +32,9 @@ sina o pona e pona a!
 
 ===
 
-sina lon ni lon tenpo ni anu seme a?
+sina lon ni lon tenpo ni anu seme? a!
 
-still here?
+*still here? yay!*
 
 sona sijelo en sona ilo sona en (kalama) musi li pona tawa mi.  
 ijo ante ni li pona tawa mi a.  
