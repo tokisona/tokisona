@@ -2,7 +2,7 @@
 layout: post
 title: tan mi en sitelen
 comments: true
-permalink: /tanmi/
+permalink: /tanmiensitelen/
 ---
 
 
