@@ -32,6 +32,11 @@ mi wile pana ilo sona sitelen lili tan Piton any Win.
 
 *i wish to share little Vim and Python scripts.*
 
+sona ken lukin li ilo sona nimi tan sitelen lon <a href="https://github.com/tokisona/tokisona.github.io" target="_blank">ni</a>.
+
+*you can get the source code at the link.*
+
+
 sina o pona e pona a!
 
 *enjoy!*
