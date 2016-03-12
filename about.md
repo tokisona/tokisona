@@ -6,13 +6,15 @@ permalink: /tanmiensitelen/
 ---
 
 
-sona sijelo anu sona ilo sona anu (kalama) musi li pona tawa mi.  
-nimi mi li jan Wenato.
+sona sijelo en sona ilo sona en (kalama) musi li pona tawa mi.  
+ijo ante ni li pona tawa mi a.  
+mi jan Wenato.
 
 ni li mi lon poka sitelen Pokinawi:  
 ![an alt text](/assets/eu.jpg){: .mypic}
 
 *I like physics, computer science and arts (music).*  
+*I like other things too!*  
 *My name is Renato.*
 
 *here is a photo of my by a Portinari painting: [image]*
