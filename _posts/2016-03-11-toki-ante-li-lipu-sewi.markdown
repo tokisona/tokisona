@@ -6,10 +6,29 @@ comments: true
 published: true
 ---
 
-mi ale li tawa ike lon nasin mute  
-jan li tawa ike ala lon toki, la jan ni li pona suli mute,  
-li jo e wawa pi nasin lawa lon sijelo ale sina.  
-(James, 3:2)
+"mi ale li tawa ike lon nasin mute.  
+jan li tawa ala ike lon toki, la jan ni li pona ale,  
+li ken lawa e sijelo ale ona."  
+Jame tu wan: tu  
+
+
+lon toki Inli:..
+"We all stumble in many ways.  
+Anyone who is never at fault in what they say is perfect,  
+able to keep their whole body in check."  
+James 3:2 (NIV)  
+
+
+lon toki Potuke tan ma Pasila:  
+"Todos tropeçamos de muitas maneiras.  
+Se alguém não tropeça no falar,  
+tal homem é perfeito,  
+sendo também capaz de dominar todo o seu corpo."  
+Tiago 3:2 (NVI)
+
+(mi o pona tan ni: jan Kipo li pali pona e sitelen mi pi nanpa wan.)
+
+- - - - - - -
 
 sewi li pana ala e kon wawa ala,  
 taso la ona li pana e kon pi wawa en olin en sona pali awen.  
