@@ -35,3 +35,5 @@ en nasin.
 (musical theory is sublime,
 very nice to understand linguistics
 and abstract methods)
+
+.  -- Jan Lenato, Nov/2017
