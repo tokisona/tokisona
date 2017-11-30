@@ -4,6 +4,9 @@ title:  sitelen mute
 categories: toki pona nasin
 comments: true
 published: true
+kramdown:
+  input: GFM
+  hard_wrap: false
 ---
 
 ##sitelen mute (various writings)
@@ -89,5 +92,48 @@ ni li pona ala tawa kon, tawa lukin.
 
 suno li pona tawa lukin.
 jan ale li tawa suno.
-.  -- 2017-11-09
+.  -- 2017-11-09 
 
+
+#### ilo toki li kalama
+
+- jan Sijelo-Soweli o,
+kasi li pini lon tenpo suno ni...
+mi wile ala mi ike tawa sina.
+kasi li lon
+la mi kama jo e ona kepeken
+nasin ante anu sina.
+
+luka luka tenpo lili li pini...
+
+- jan Sijelo-Soweli o,
+sina jo e insa mi e pilin mi.
+pana e kasi, jan pona o.
+mi pana e len noka tawa sina a.
+
+tenpo lili...
+
+- jan Sij... mi wile la sina kon e ona.
+toki insa sina li kama jo e mi.
+tenpo ni la toki sina pi kalama musi:
+"tenpo pini la ona li jan pona.
+tenpo pini la jan pi ilo toki li toki tawa mi."
+
+(jan Sijelo-Soweli li kama jo e ilo toki)
+- jan pi ilo toki, sina ike tawa ali.
+jan li jo e kasi lon tenpo ali,
+li wile jo li jo.
+ma li pana e kasi.
+tenpo sama la sina pona tawa ali.
+sina wile moku e kon lon tenpo ali,
+sina sona e ali, li toki tawa jan ali.
+toki tawa jan Peto la
+ona li pana e kasi nasa pona.
+18 72 3613 8123.
+
+- pona tawa sina a.
+mi pana e kala akesi tawa sina o.
+uta e meli e jan lili sina.
+sona sewi.
+
+- sona sewi.
